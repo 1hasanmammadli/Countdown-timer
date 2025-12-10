@@ -4,8 +4,8 @@
   "start_url": "/planner/",
   "scope": "/Countdown-timer/",
   "display": "standalone",
-  "background_color": "#2d1b4e",
-  "theme_color": "#581c87",
+  "background_color": "#2a2a2a",
+  "theme_color": "#141414",
   "orientation": "portrait-primary",
   "icons": [
     {
