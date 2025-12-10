@@ -1,7 +1,7 @@
 {
   "name": "Countdown Timer",
   "short_name": "Countdown",
-  "start_url": "/planner/",
+  "start_url": "/Countdown-timer/",
   "scope": "/Countdown-timer/",
   "display": "standalone",
   "background_color": "#2a2a2a",
