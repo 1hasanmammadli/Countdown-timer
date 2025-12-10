@@ -1,6 +1,7 @@
 {
   "name": "Countdown Timer",
   "short_name": "Countdown",
+  "description": "Countdown Timer",
   "start_url": "/Countdown-timer/",
   "scope": "/Countdown-timer/",
   "display": "standalone",
